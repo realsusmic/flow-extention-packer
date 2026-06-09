@@ -1,0 +1,11 @@
+{
+  "algo": "sha-256",
+  "generatedAt": "2026-06-09T20:58:25.773Z",
+  "files": {
+    "icon.svg": "0b307a3d5b816a0a973a4ff38090b3d4551274ad984721ebbe0a54ffb7d12969",
+    "main.js": "e2ec845248e6fb26862ceabff1c7fb42b2d90862d02fb7e8e9840669e23808bc",
+    "manifest.json": "74e07cd3a77a33986e4af37c5cb37606f3693d45fcab4dcc527862a610a8d3f7",
+    "README.md": "947fdfbfbd4a8bd9f7def34190b04df82f927bb1117b31849337ffb9677946cc"
+  },
+  "rootHash": "b11f9a43ddd7180ae4d37c713f4ce8b965465230d2e3e6e26e6e5c3e697218be"
+}
